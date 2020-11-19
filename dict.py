@@ -17,10 +17,10 @@ def word_count(data):
 	return wc
 
 
-def list_print(dic)
-for word in wc:
-	if wc[word] > 100:
-		print(word, wc[word])
+def list_print(dic):
+	for word in wc:
+		if wc[word] > 100:
+			print(word, wc[word])
 
 
 def look_up(word):
